@@ -95,3 +95,4 @@ The only explicit requirements are:
 ## Contributing
 
 Please fork this repository and contribute back using [pull requests](https://github.com/whoshuu/cpr/pulls). Features can be requested using [issues](https://github.com/whoshuu/cpr/issues). All code, comments, and critiques are greatly appreciated.
+ 
